@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 SECRET.py
 __init__.py
+SECRET_KEY.py
