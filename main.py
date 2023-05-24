@@ -1,4 +1,4 @@
-from SECRET_KEY import OPENAI_API_KEY
+from SEC import OPENAI_API_KEY
 from API.openai_endpoint import OpenAPI
 
 

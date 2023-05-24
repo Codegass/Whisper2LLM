@@ -161,3 +161,4 @@ cython_debug/
 SECRET.py
 __init__.py
 SECRET_KEY.py
+SEC.py
