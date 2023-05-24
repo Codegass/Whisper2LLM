@@ -16,7 +16,7 @@ class OpenAPI:
             messages = [
                 {"role": "system", "content": "You are a interviewee who are aksing coding questions related to Python"},
                 {"role": "user", "content": "Please answering the following interview questions detailedly, and if possible, plese provide the code with it."},
-                {"role": "asissstant", "content": "Sure, I will try my best to answer your coding interview questions."},
+                {"role": "asisstant", "content": "Sure, I will try my best to answer your coding interview questions."},
             ]
         )
 
